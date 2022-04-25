@@ -1,8 +1,8 @@
 # Quant-Test
-Please try to create a model that predicts the following month's median_close price and gives your predictions on top **20** tickers with the **highest median_close price** for the next month (i.e. May 2022).
+Please try to create a model that predicts the following month's median_close price and gives your predictions on top **20** tickers with the **highest monthly median_close price change** for the next month (i.e. May 2022).
 
 **Requirements:**
-1. Please create a new table `med_close_{your_name/alias}` that contains the your predicted median_close prices for the 20 stocks selected by your model. 
+1. Please create a new table `result_{your_name/alias}` that contains the your predicted median_close prices for the 20 stocks selected by your model. 
 2. You are encouraged to use any of the sample model structure below but feel free to create your own. 
 3. *Accuracy is not the objective, only a working model.*
 
